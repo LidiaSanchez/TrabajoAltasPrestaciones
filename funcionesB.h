@@ -18,6 +18,7 @@
 //*  Usage:                                                                    *
 //*  Description: Lee los codigos de carga                                     *
 //*                                                                            *
+//*                                                                            *
 //******************************************************************************
 
 void CODIGOS(int* punteroA_ndInicial,int* punteroA_ndFinal,int* punteroA_tpCod)
