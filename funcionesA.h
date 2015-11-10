@@ -19,6 +19,7 @@
 //*  Usage:                                                                    *
 //*  Description: Superficie de contacto codificada de 4 extremos              *
 //*                                                                            *
+//*                                                                            *
 //******************************************************************************
 
 void SUPERFICIE_CUATRO(int* punteroA_elInicial,int* punteroA_exInicial,int* punteroA_bContacto)
