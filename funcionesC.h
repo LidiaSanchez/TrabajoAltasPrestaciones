@@ -17,6 +17,7 @@
 //*  Description: Realiza las integraciones analiticas.                                  *
 //*                                                                                      *
 //*                                                                                      *
+//*                                                                                      *
 //****************************************************************************************
 
 void ANALITICA(double AEA[3][3],double BEA[3][3],double* punteroA_ATA,double* punteroA_BTA,double CTEA[3],double DTEA[3][3],double n[3],double bar[3])
