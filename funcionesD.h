@@ -15,6 +15,7 @@
 //*  Description: Obtiene los puntos de integracion de Gauss                   *
 //*                                                                            *
 //*                                                                            *
+//*                                                                            *
 //******************************************************************************
 
 void GAUSS(double punt[7][3])      
