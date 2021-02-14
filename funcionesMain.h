@@ -16,6 +16,7 @@
 //*  Usage:                                                                    *
 //*  Description: Entrada de datos fuertemente codificada                      *
 //*                                                                            *
+//*                                                                            *
 //******************************************************************************
 
 void CODIFICADA()
